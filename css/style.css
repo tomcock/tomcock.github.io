@@ -3,7 +3,7 @@ body { margin: 60px auto; width: 70%; }
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+p, ul { font-size: .4em; line-height: 1.4em; color: #333; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 2em;  }
@@ -16,14 +16,16 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
+/* About */
+
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1em; }
 ul.posts li { list-style: none; }
 
-/* CV */
+/* Resume */
 .resume { margin: 0px 0px 60px; }
-.resume h1 { font-size: 3em; }
-.resume h2 { font-size: 2em; }
+.resume h1 { font-size: 2em; }
+.resume h2 { font-size: 1.5em; }
 .resume address, .resume .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .resume address, .resume p { font-size: 1.2em; }
 .resume .download { float: right; font-size: .8em; text-transform: uppercase; }
