@@ -28,6 +28,13 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 	background-image: url(css/st1.jpg);
 	background-repeat: repeat repeat;
 }
+.divPanel {padding: 40px;;;;}
+
+#divFooter a {color: rgb(224, 95, 3); font-size: 13px; font-family: 'Open Sans', sans-serif;}
+
+#divFooter h3 {font-family: 'Source Sans Pro', sans-serif; font-weight: normal; font-style: normal; font-size: 23px; line-height: 45px; color: rgb(211, 211, 211);}
+
+h2 {font-weight: normal; font-style: normal; font-family: 'Source Sans Pro', sans-serif; font-size: 35px; line-height: 50px;}
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 /* Footer elements */
 
