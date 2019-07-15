@@ -29,6 +29,11 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 	background-repeat: repeat repeat;
 }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
+/* Footer elements */
+
+.social_bookmarks a {font-size:smaller !important;text-transform:uppercase;letter-spacing:1px;text-decoration:none;margin-right:20px;}
+
+.copyright {font-size:smaller;letter-spacing:1px;}
 
 /* About */
 
